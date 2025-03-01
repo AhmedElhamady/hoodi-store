@@ -1,0 +1,36 @@
+## admins
+name email password
+
+## users
+first name - last name - phone - email - password
+
+## branches
+name city location
+
+## phones    for users and branches
+phone 
+
+## addresses
+city address
+
+## colors
+name hexa
+
+## sizes
+name size
+
+## products
+name desc price
+
+## product variants
+color_id size_id countity price is_main image
+
+## image for variants
+variant_id image
+
+## orders
+number user info_of_billing info_of_product total shipping
+
+## order detail
+order_id product countity color size
+
